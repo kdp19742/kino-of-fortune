@@ -1,1 +1,1 @@
-# Kino-of-Fortune
+# kino-of-fortune
